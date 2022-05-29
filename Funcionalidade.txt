@@ -1,0 +1,28 @@
+
+link video yutube
+https://www.youtube.com/watch?v=iqKPvn5ze2I
+
+AGENDA COLETA SELETIVA CELIO ROCHA DA SILVA - LABORATÓRIO DE PROGRAMAÇÃO 1
+
+A funcionalidade do meu software é uma agenda para Coleta seletiva Pessoa Fisica no Python 3
+O programa o main.py para execução é main.py feito por Celio Rocha da Silva e Gilmar Rodrigues Campelo.
+
+1- O que dá para fazer com a Agenda Coleta Seletiva registrar no arquivo txt:
+Funcionalidade do nemu de opções
+Cadastrar: Cadastrar cliente,Remover cliente,Listar cliente,Cadastrar coleta, Listar coleta,Excluir coleta      
+
+
+2 - Adicionar Contato com nome:
+
+3 - Excluir Contato e Coleta cadastrada;
+
+4 - Pesquisar Contato e Coleta cadastrada.
+
+5 - Apagar Agenda contato e coleta cadastrada.
+
+6 - Sair # Encerra o programa
+
+Obs.: inicialmente tinha planejado criar uma agendar com opção de janela 
+(foi criado, mais devido a ter tido muita dificuldade na progrmação descidir 
+desistir e faze-la em outra oportunidade , pois infelizmente o grupo era formado 
+apenas por 02 participanetes e com isso.). O video sobre a utilização da agenda também sera mostrado  
